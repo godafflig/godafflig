@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tombenat99@hotmail.fr**
 
-- 📄 Know about my experiences [web developer for association for 1 month web developer for association for 1 month Web developer for association for 1 month](web developer for association for 1 month web developer for association for 1 month Web developer for association for 1 month)
+- 📄 Know about my experiences [web developer for association for 1 month ]
 
 - ⚡ Fun fact **i like play football and video-games**
 
