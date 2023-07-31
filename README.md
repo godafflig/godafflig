@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom benat</h1>
 <h3 align="center">A passionate frontend developer from France/Lyon</h3>
 
-- 🔭 I’m currently working on [Bigger than me](https://github.com/BiggerThanMe/website)
+- 🔭 I’m currently working on EasyPitch 
 
 - 🌱 I’m currently learning **web developement**
 
