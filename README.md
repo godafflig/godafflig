@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web developement**
 
-- 💬 Ask me about **golang html css**
+- 💬 Ask me about **javascript, php,  html, css**
 
 - 📫 How to reach me **tombenat99@hotmail.fr**
 
